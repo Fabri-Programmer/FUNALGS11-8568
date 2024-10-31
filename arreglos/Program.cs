@@ -25,6 +25,10 @@ for (int x = 0; x < edificio2.Length; x++) {
         break;
     }
 }
+
 //cambio 
 //cambio 12
 //segundo cambio 
+
+Console.WriteLine("cambio en fix");
+
